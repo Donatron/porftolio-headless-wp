@@ -32,7 +32,7 @@
         'name' => 'Portfolio',
         'add_new_item' => 'Add New Portfolio Item',
         'edit_item' => 'Edit Portfolio Item',
-        'all_items' => 'All Portfolio Item',
+        'all_items' => 'All Portfolio Items',
         'singular_name' => 'Portfolio Item'
       ),
       'menu_icon' => 'dashicons-portfolio'
@@ -51,7 +51,7 @@
         'name' => 'Skills',
         'add_new_item' => 'Add New Skill',
         'edit_item' => 'Edit Skill',
-        'all_items' => 'All Skill',
+        'all_items' => 'All Skills',
         'singular_name' => 'Skill'
       ),
       'menu_icon' => 'dashicons-awards'
